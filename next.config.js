@@ -1,3 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = { output: 'standalone' };
+const nextConfig = {
+  output: 'export',
+  basePath: process.env.GITHUB_PAGES === 'true' ? '/venture-demo-sites' : '',
+  assetPrefix: process.env.GITHUB_PAGES === 'true' ? '/venture-demo-sites/' : '',
+  images: { unoptimized: true }
+};
 module.exports = nextConfig;
