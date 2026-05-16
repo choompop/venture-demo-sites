@@ -1,0 +1,2 @@
+:HL["/venture-demo-sites/_next/static/chunks/0z3v~4o97_rt-.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"ventures","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kyburz-capital","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"YNDXdEK5OBtT3qjl84JUr"}
